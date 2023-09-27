@@ -1,1 +1,1 @@
-# BS-JS_TASK2
+# MERN_TASK2
